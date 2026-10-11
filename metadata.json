@@ -1,0 +1,10 @@
+{
+  "name": "Real Time Camera Location MG",
+  "description": "Capture photos with live GPS coordinates, reverse-geocoded address, timestamps, and customizable watermarks.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
